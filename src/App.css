@@ -1,8 +1,22 @@
 .App {
   text-align: center;
+  background-image: linear-gradient(360deg,rgb(182, 158, 221), rgb(255, 255, 255));
+  height:750px;
 }
 
 #nav a{
   text-decoration: none;
   color: white;
 }
+/* #table{
+  background: rgb(94, 92, 92);
+  color:white;
+} */
+#table-h{
+  background: black;
+  color:white;
+}
+/* #table-c{
+  background: white;
+} */
+
